@@ -9,5 +9,5 @@ hello git hit-fix
 master test
 hot-fix test pull
 ssh
-push ssh
+push ssh test 
 
